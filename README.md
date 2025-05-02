@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MalithaChamikara
-- 👀 I’m interested in Software development and web development 
-- 🌱 I’m currently a undergraduate of department of computer science University Of Ruhuna
-- 💞️ I’m looking to collaborate on Real world projects in frienndly manner
+- 👀 Fullstack Engineer | Software Engineer | Web developer 
+- 🌱 I’m currently working at connex information technology as a trainee software engineer
+- 💞️ I’m looking to collaborate on Real world projects in a collaborative environment
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
